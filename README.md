@@ -6,6 +6,7 @@ asp.net_web_program
 ## Installed package (NuGet)
 
 Microsoft.EntityFrameworkCore.SqlServer
+
 Microsoft.EntityFrameworkCore.Tools
 
 ## In Terminal (Tools/NutGet Package Manager /Package Manager Console)
